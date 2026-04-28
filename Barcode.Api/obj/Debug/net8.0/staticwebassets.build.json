@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PX6LowujEk2w4fCvwQVGYeLWScGd+6nk7vvmhoxTNTk=",
+  "Source": "Barcode.Api",
+  "BasePath": "_content/Barcode.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
